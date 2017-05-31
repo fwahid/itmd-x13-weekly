@@ -29,3 +29,17 @@ puts my_own_var
 
 my_own_var = 5 * (1+2)
 puts my_own_var
+
+#In fact, variables can point to just about anything...except other vari- ables.
+var1 = 8
+var2 = var1
+puts var1
+#8
+
+puts var2
+#8
+
+puts ' '
+var1 = 'eight'
+puts var1
+puts var2
