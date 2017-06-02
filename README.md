@@ -1,4 +1,3 @@
-
 ## ITMD 413/513 Weekly Work Repository
 
 For the first week’s work, you’ll write all of the in-chapter example code in Chris Pine’s *Learn to Program*, 2nd ed. for Chapters 5–15 (Chapters 2-4’s examples can pretty much be written straight into `irb`, so you can skip those from your weekly work repository, if you’d like).
